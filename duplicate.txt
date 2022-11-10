@@ -8,7 +8,7 @@
       "ShippingStreet": "3618 FARNAM ST.",
       "ShippingCity": "OMAHA",
       "ShippingState": "NE",
-      "ShippingPostalCode": "68131",
+      "ShippingPostalCode": "",
       "ShippingCountry": "US",
       "AccountNumber": "212898",
       "AccountPartyID__c": "59732435",
