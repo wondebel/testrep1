@@ -1,11 +1,10 @@
-
 {
       "id": "0015e00000hD0VuAAK",
       "message": "This may create duplicates.  Please review.",
       "successful": false,
       "statusCode": "DUPLICATES_DETECTED",
       "Id": "0015e00000hD0VuAAK",
-      "Name": "BLACKSTONE FOOD HALL",
+      "Name": "BLACKSTONE",
       "ShippingStreet": "3618 FARNAM ST.",
       "ShippingCity": "OMAHA",
       "ShippingState": "NE",
