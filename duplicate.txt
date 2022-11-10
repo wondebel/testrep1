@@ -15,5 +15,5 @@
       "AccountPartyID__c": "59732435",
       "CreditHold__c": false,
       "OilType__c": "Oil Bulk RTI Gold",
-      "EBS_Error_Message__c": nu
+      "EBS_Error_Message__c": ""
     }
